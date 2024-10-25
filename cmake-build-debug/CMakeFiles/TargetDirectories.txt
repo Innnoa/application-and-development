@@ -1,0 +1,3 @@
+G:/c++/application and development/application-and-development/cmake-build-debug/CMakeFiles/application_and_development.dir
+G:/c++/application and development/application-and-development/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c++/application and development/application-and-development/cmake-build-debug/CMakeFiles/rebuild_cache.dir
