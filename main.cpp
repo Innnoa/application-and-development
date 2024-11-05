@@ -10,7 +10,11 @@
 using namespace std;
 
 int main()
-{
-    ios::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
-    return 0;
-}
+    {
+        ios::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
+        int a;
+        cin >> a;
+        const char c = a == 90 ? 'a' : a == 91 ? 'b' : a == 92 ? 'c' : 'd';
+        cout << c;
+        return 0;
+    }
