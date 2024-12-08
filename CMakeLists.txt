@@ -3,4 +3,6 @@ project(application_and_development)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(application_and_development main.cpp)
+add_executable(application_and_development main.cpp
+        main.cpp
+        main.cpp)

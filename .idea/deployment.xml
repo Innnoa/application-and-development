@@ -2,11 +2,15 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="enoine (fe8229eb-7245-4b6b-928d-53948351759a)">
+      <paths name="远程主机 (b84bdb23-2299-44bd-98d5-054f500c0831)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/tmp.NeFGTx3hfK" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-wsl" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>

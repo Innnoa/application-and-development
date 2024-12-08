@@ -1,12 +1,4 @@
 # ninja log v6
-1737	1856	7515433500000000	application_and_development.exe	662b9519847cc28
-3	1730	7515433500000000	CMakeFiles/application_and_development.dir/main.cpp.obj	1093fb8f356cc952
-29	1292	7520607200000000	build.ninja	f4951f8637c33d01
-4	1728	7520607200000000	CMakeFiles/application_and_development.dir/main.cpp.obj	1093fb8f356cc952
-1729	1995	7520607220000000	application_and_development.exe	a4532502750b12ba
-5	1677	7520607840000000	CMakeFiles/application_and_development.dir/main.cpp.obj	1093fb8f356cc952
-1678	1910	7520607860000000	application_and_development.exe	a4532502750b12ba
-5	1742	7520609260000000	CMakeFiles/application_and_development.dir/main.cpp.obj	1093fb8f356cc952
-1743	1940	7520609280000000	application_and_development.exe	a4532502750b12ba
-5	1814	7520610020000000	CMakeFiles/application_and_development.dir/main.cpp.obj	1093fb8f356cc952
-1815	2053	7520610040000000	application_and_development.exe	a4532502750b12ba
+1806	1959	7534409320000000	application_and_development.exe	a4532502750b12ba
+6	1804	7534409300000000	CMakeFiles/application_and_development.dir/main.cpp.obj	1093fb8f356cc952
+29	1292	7534444300000000	build.ninja	f4951f8637c33d01
